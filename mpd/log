@@ -1,0 +1,1008 @@
+Nov 20 17:20 : exception: Failed to open '/home/eyeshield6/.config/mpd/state': No such file or directory
+Nov 20 17:20 : update: added /Daft Punk  Something About Us.mp3
+Nov 20 17:21 : exception: Failed to open '/home/eyeshield6/.config/mpd/state': No such file or directory
+Nov 20 17:24 : exception: Failed to commit /home/eyeshield6/.config/mpd/state: File exists
+Nov 20 17:24 : config: option 'forma' on line 24 was not recognized
+Nov 20 17:29 : update: added /Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 17:29 : update: added /The Tourist [HkgzObf8uVU].opus
+Nov 20 17:29 : update: added /Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 17:29 : update: added /Karma Police [4IJI6soiQhI].opus
+Nov 20 17:29 : update: added /Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 17:29 : update: added /Electioneering [3DtgWrFTtQk].opus
+Nov 20 17:29 : update: added /Let Down [duBCwvC1kP4].opus
+Nov 20 17:29 : update: added /No Surprises [LBt60dfwEBY].opus
+Nov 20 17:29 : update: added /Lucky [yuZYQvvLXVY].opus
+Nov 20 17:29 : update: added /Fitter Happier [O4SzvsMFaek].opus
+Nov 20 17:29 : update: added /Airbag [jNY_wLukVW0].opus
+Nov 20 17:29 : update: added /Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 17:30 : update: added daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 17:32 : update: added radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 17:32 : update: added radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 17:32 : update: added radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 17:32 : update: added radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 17:32 : update: added radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 17:32 : update: added radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 17:32 : update: added radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 17:32 : update: added radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 17:32 : update: added radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 17:32 : update: added radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 17:32 : update: added radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 17:32 : update: added radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 17:35 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:35 : player: played "Let Down [duBCwvC1kP4].opus"
+Nov 20 17:35 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:35 : exception: Not playing
+Nov 20 17:35 : exception: Not playing
+Nov 20 17:35 : exception: Not playing
+Nov 20 17:36 : player: played "radiohead/Airbag [jNY_wLukVW0].opus"
+Nov 20 17:37 : player: played "radiohead/No Surprises [LBt60dfwEBY].opus"
+Nov 20 17:37 : exception: Not playing
+Nov 20 17:37 : exception: Not playing
+Nov 20 17:38 : player: played "radiohead/No Surprises [LBt60dfwEBY].opus"
+Nov 20 17:38 : player: played "radiohead/Paranoid Android [YTH8cxXBGBo].opus"
+Nov 20 17:38 : exception: Not playing
+Nov 20 17:38 : exception: Not playing
+Nov 20 17:38 : exception: Not playing
+Nov 20 17:38 : exception: Not playing
+Nov 20 17:38 : exception: Not playing
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : player: played "Let Down [duBCwvC1kP4].opus"
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : player: played "Let Down [duBCwvC1kP4].opus"
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : player: played "Let Down [duBCwvC1kP4].opus"
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : player: played "Let Down [duBCwvC1kP4].opus"
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : player: played "Let Down [duBCwvC1kP4].opus"
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:38 : player: played "Let Down [duBCwvC1kP4].opus"
+Nov 20 17:38 : exception: Failed to decode /home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus; Failed to open '/home/eyeshield6/Music/Let Down [duBCwvC1kP4].opus': No such file or directory
+Nov 20 17:40 : exception: Failed to decode /home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus; Failed to open '/home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus': No such file or directory
+Nov 20 17:40 : player: played "Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 17:40 : exception: Failed to decode /home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus; Failed to open '/home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus': No such file or directory
+Nov 20 17:40 : player: played "radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 17:41 : config: option 'forma' on line 24 was not recognized
+Nov 20 17:45 : exception: Failed to decode /home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus; Failed to open '/home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus': No such file or directory
+Nov 20 17:45 : player: played "radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 17:45 : player: played "Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 17:47 : config: option 'forma' on line 24 was not recognized
+Nov 20 17:49 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 17:49 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 17:51 : exception: Failed to decode /home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus; Failed to open '/home/eyeshield6/Music/Climbing Up the Walls [XX4EpkR-Sp4].opus': No such file or directory
+Nov 20 17:51 : player: played "radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 17:51 : player: played "Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 17:56 : update: removing Daft Punk  Something About Us.mp3
+Nov 20 17:56 : update: removing Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 17:56 : update: removing Airbag [jNY_wLukVW0].opus
+Nov 20 17:56 : update: removing Karma Police [4IJI6soiQhI].opus
+Nov 20 17:56 : update: removing Fitter Happier [O4SzvsMFaek].opus
+Nov 20 17:56 : update: removing Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 17:56 : update: removing Electioneering [3DtgWrFTtQk].opus
+Nov 20 17:56 : update: removing Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 17:56 : update: removing Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 17:56 : update: removing No Surprises [LBt60dfwEBY].opus
+Nov 20 17:56 : update: removing Lucky [yuZYQvvLXVY].opus
+Nov 20 17:56 : update: removing Let Down [duBCwvC1kP4].opus
+Nov 20 17:56 : update: removing The Tourist [HkgzObf8uVU].opus
+Nov 20 17:56 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 17:56 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 17:56 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 17:56 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 17:56 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 17:56 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 17:56 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 17:56 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 17:56 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 17:56 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 17:56 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 17:56 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 17:56 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 17:56 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 17:56 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 17:56 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 17:56 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 17:56 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 17:56 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 17:56 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 17:56 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 17:56 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 17:56 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 17:56 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:01 : player: played "radiohead/Airbag [jNY_wLukVW0].opus"
+Nov 20 18:01 : exception: Not playing
+Nov 20 18:01 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:01 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:02 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 18:02 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 18:02 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 18:02 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 18:02 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 18:02 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 18:02 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 18:02 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 18:02 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 18:02 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 18:02 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 18:02 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:02 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 18:02 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 18:02 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 18:02 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 18:02 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 18:02 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 18:02 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 18:02 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 18:02 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 18:02 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 18:02 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 18:02 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:05 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 18:05 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 18:05 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 18:05 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 18:05 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 18:05 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 18:05 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 18:05 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 18:05 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 18:05 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 18:05 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 18:05 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:06 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 18:06 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 18:06 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 18:06 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 18:06 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 18:06 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 18:06 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 18:06 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 18:06 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 18:06 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 18:06 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 18:06 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:06 : player: played "daftpunk/Daft Punk  Something About Us.mp3"
+Nov 20 18:07 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 18:07 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 18:07 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 18:07 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 18:07 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 18:07 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 18:07 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 18:07 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 18:07 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 18:07 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 18:07 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 18:07 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:07 : update: updating radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 18:07 : update: updating radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 20 18:07 : update: updating radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 18:07 : update: updating radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 20 18:07 : update: updating radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 18:07 : update: updating radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 20 18:07 : update: updating radiohead/Let Down [duBCwvC1kP4].opus
+Nov 20 18:07 : update: updating radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 20 18:07 : update: updating radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 20 18:07 : update: updating radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 20 18:07 : update: updating radiohead/Airbag [jNY_wLukVW0].opus
+Nov 20 18:07 : update: updating radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:08 : player: played "radiohead/Airbag [jNY_wLukVW0].opus"
+Nov 20 18:15 : player: played "radiohead/Paranoid Android [YTH8cxXBGBo].opus"
+Nov 20 18:19 : player: played "radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 18:26 : player: played "daftpunk/Daft Punk  Something About Us.mp3"
+Nov 20 18:27 : update: removing Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 20 18:27 : update: removing Airbag [jNY_wLukVW0].opus
+Nov 20 18:27 : update: removing The Tourist [HkgzObf8uVU].opus
+Nov 20 18:27 : update: removing Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 20 18:27 : update: removing Paranoid Android [YTH8cxXBGBo].opus
+Nov 20 18:27 : update: removing No Surprises [LBt60dfwEBY].opus
+Nov 20 18:27 : update: removing Lucky [yuZYQvvLXVY].opus
+Nov 20 18:27 : update: removing Let Down [duBCwvC1kP4].opus
+Nov 20 18:27 : update: removing Karma Police [4IJI6soiQhI].opus
+Nov 20 18:27 : update: removing Fitter Happier [O4SzvsMFaek].opus
+Nov 20 18:27 : update: removing Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 20 18:27 : update: removing Electioneering [3DtgWrFTtQk].opus
+Nov 20 18:27 : update: removing Daft Punk  Something About Us.mp3
+Nov 20 18:27 : update: added /Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:27 : update: added /Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:27 : update: added /Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:27 : update: added /Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:27 : update: added /Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:27 : update: added /Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:27 : update: added /Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:27 : update: added /Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:27 : update: added /Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:27 : update: added /Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:27 : update: added /Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:27 : update: added /Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:27 : update: added /Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:27 : update: added /Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:27 : update: added /Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:27 : update: added /Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:27 : update: added /Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:27 : update: added /Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:27 : update: added /Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:27 : update: added /Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:27 : update: added /Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:27 : update: added /Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:27 : update: added /Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:27 : update: added /Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:27 : update: added /Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:27 : update: added /Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:27 : update: added /Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:27 : update: added /Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:27 : update: added daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:28 : update: removing Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:28 : update: removing Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:28 : update: removing Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:28 : update: removing Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:28 : update: removing Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:28 : update: removing Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:28 : update: removing Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:28 : update: removing Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:28 : update: removing Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:28 : update: removing Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:28 : update: removing Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:28 : update: removing Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:28 : update: removing Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:28 : update: removing Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:28 : update: updating daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:31 : update: updating daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:32 : update: removing daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:32 : update: removing daftpunk/Daft Punk  Something About Us.mp3
+Nov 20 18:32 : exception: Failed to save database: Failed to commit /home/eyeshield6/.config/mpd/database: File exists
+Nov 20 18:32 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 20 18:32 : update: updating daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 20 18:39 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Nov 20 18:43 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Nov 20 18:46 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Nov 20 18:48 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Nov 20 18:53 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Nov 20 18:57 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Nov 20 19:01 : player: played "daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus"
+Nov 20 19:04 : player: played "daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus"
+Nov 20 19:56 : player: played "radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 19:59 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Nov 20 20:03 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Nov 20 20:11 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Nov 20 20:14 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Nov 20 20:16 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Nov 20 20:21 : player: played "daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus"
+Nov 20 20:25 : player: played "daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus"
+Nov 20 20:28 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Nov 20 20:32 : player: played "daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus"
+Nov 20 20:42 : player: played "daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus"
+Nov 20 20:48 : player: played "daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus"
+Nov 20 20:52 : player: played "daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus"
+Nov 20 21:08 : player: played "radiohead/Electioneering [3DtgWrFTtQk].opus"
+Nov 20 21:10 : player: played "radiohead/Fitter Happier [O4SzvsMFaek].opus"
+Nov 20 21:15 : player: played "radiohead/Airbag [jNY_wLukVW0].opus"
+Nov 20 21:19 : player: played "radiohead/No Surprises [LBt60dfwEBY].opus"
+Nov 20 21:26 : player: played "radiohead/Paranoid Android [YTH8cxXBGBo].opus"
+Nov 20 21:30 : player: played "radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Nov 20 21:34 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Nov 20 21:37 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Nov 20 22:29 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Nov 20 22:39 : player: played "daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus"
+Nov 20 22:43 : player: played "daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus"
+Nov 20 22:46 : player: played "radiohead/Electioneering [3DtgWrFTtQk].opus"
+Nov 21 15:48 : config: option 'forma' on line 24 was not recognized
+Nov 21 15:51 : update: added radiohead/pablo_honey/Stop Whispering [DPpug5FUQsc].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Ripcord [i0GC7Oo_Zo4].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/You [OzL7u5teZhg].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Thinking About You [2jsPEOiMNaA].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Anyone Can Play Guitar [i_GZJLH0ynY].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Blow Out [ocQImpRfPMk].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Vegetable [kALoYb7bepI].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Prove Yourself [o6Hqe1qKUhA].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/I Can't [cwQZ3O3hUe8].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/How Do You？ [ukFTig7exNU].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus
+Nov 21 15:51 : update: added radiohead/pablo_honey/Lurgee [RGx5wxznSOE].opus
+Nov 21 15:52 : update: removing radiohead/Airbag [jNY_wLukVW0].opus
+Nov 21 15:52 : update: removing radiohead/Let Down [duBCwvC1kP4].opus
+Nov 21 15:52 : update: removing radiohead/Karma Police [4IJI6soiQhI].opus
+Nov 21 15:52 : update: removing radiohead/Fitter Happier [O4SzvsMFaek].opus
+Nov 21 15:52 : update: removing radiohead/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 21 15:52 : update: removing radiohead/Electioneering [3DtgWrFTtQk].opus
+Nov 21 15:52 : update: removing radiohead/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 21 15:52 : update: removing radiohead/The Tourist [HkgzObf8uVU].opus
+Nov 21 15:52 : update: removing radiohead/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 21 15:52 : update: removing radiohead/Paranoid Android [YTH8cxXBGBo].opus
+Nov 21 15:52 : update: removing radiohead/No Surprises [LBt60dfwEBY].opus
+Nov 21 15:52 : update: removing radiohead/Lucky [yuZYQvvLXVY].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Subterranean Homesick Alien [_fTWmUlTEqE].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/The Tourist [HkgzObf8uVU].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Paranoid Android [YTH8cxXBGBo].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Karma Police [4IJI6soiQhI].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Climbing Up the Walls [XX4EpkR-Sp4].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Electioneering [3DtgWrFTtQk].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Let Down [duBCwvC1kP4].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Lucky [yuZYQvvLXVY].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Airbag [jNY_wLukVW0].opus
+Nov 21 15:52 : update: added radiohead/nosurprises/Exit Music (For A Film) [Bf01riuiJWA].opus
+Nov 21 15:54 : player: played "radiohead/Electioneering [3DtgWrFTtQk].opus"
+Nov 21 15:57 : update: removing Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus
+Nov 21 15:57 : update: removing Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus
+Nov 21 15:57 : update: removing Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus
+Nov 21 15:57 : update: removing Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus
+Nov 21 15:57 : update: removing Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus
+Nov 21 15:57 : update: removing Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus
+Nov 21 15:57 : update: removing Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus
+Nov 21 15:57 : update: removing Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus
+Nov 21 15:57 : update: removing Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus
+Nov 21 15:57 : update: removing Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus
+Nov 21 15:57 : update: removing Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus
+Nov 21 15:57 : update: removing Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus
+Nov 21 15:57 : update: removing Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus
+Nov 21 15:57 : update: removing Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Stop Whispering [DPpug5FUQsc].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Ripcord [i0GC7Oo_Zo4].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/You [OzL7u5teZhg].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Thinking About You [2jsPEOiMNaA].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Anyone Can Play Guitar [i_GZJLH0ynY].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Blow Out [ocQImpRfPMk].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Vegetable [kALoYb7bepI].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Prove Yourself [o6Hqe1qKUhA].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/I Can't [cwQZ3O3hUe8].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/How Do You？ [ukFTig7exNU].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus
+Nov 21 15:57 : update: updating radiohead/pablo_honey/Lurgee [RGx5wxznSOE].opus
+Nov 21 15:58 : player: played "radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus"
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Stop Whispering [DPpug5FUQsc].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Ripcord [i0GC7Oo_Zo4].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/You [OzL7u5teZhg].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Thinking About You [2jsPEOiMNaA].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Anyone Can Play Guitar [i_GZJLH0ynY].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Blow Out [ocQImpRfPMk].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Vegetable [kALoYb7bepI].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Prove Yourself [o6Hqe1qKUhA].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/I Can't [cwQZ3O3hUe8].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/How Do You？ [ukFTig7exNU].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus
+Nov 21 16:07 : update: updating radiohead/pablo_honey/Lurgee [RGx5wxznSOE].opus
+Nov 21 17:05 : player: played "radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus"
+Nov 21 17:09 : player: played "radiohead/pablo_honey/Anyone Can Play Guitar [i_GZJLH0ynY].opus"
+Nov 21 17:13 : player: played "radiohead/pablo_honey/Blow Out [ocQImpRfPMk].opus"
+Nov 21 17:17 : player: played "radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus"
+Nov 21 17:20 : player: played "radiohead/pablo_honey/How Do You？ [ukFTig7exNU].opus"
+Nov 21 17:24 : player: played "radiohead/pablo_honey/I Can't [cwQZ3O3hUe8].opus"
+Nov 21 17:27 : player: played "radiohead/pablo_honey/Lurgee [RGx5wxznSOE].opus"
+Nov 21 17:29 : player: played "radiohead/pablo_honey/Prove Yourself [o6Hqe1qKUhA].opus"
+Nov 21 17:32 : player: played "radiohead/pablo_honey/Ripcord [i0GC7Oo_Zo4].opus"
+Nov 21 17:38 : player: played "radiohead/pablo_honey/Stop Whispering [DPpug5FUQsc].opus"
+Nov 25 20:04 : update: added porno_graffitti/Agehachou [i_pxYP3CD0s].opus
+Nov 25 20:04 : update: added porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus
+Nov 25 20:04 : update: added porno_graffitti/Love You Love You [CxBphCiX4Lo].opus
+Nov 25 20:04 : update: added porno_graffitti/ポルノグラフィティ『アポロ』MUSIC VIDEO [q_8ulbgIF5w].opus
+Nov 25 20:04 : update: added porno_graffitti/Mahoroba Maruyama [q0ehGFGIttk].opus
+Nov 25 20:04 : update: added porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus
+Nov 25 20:04 : update: added porno_graffitti/ポルノグラフィティ『サボテン(Short ver.)』 ⧸ PORNOGRAFFITTI『Saboten (Short ver.)』 [T3CYkoC3R3U].opus
+Nov 25 20:04 : update: added porno_graffitti/Karma No Saka [yledywIYNGI].opus
+Nov 25 20:04 : update: added porno_graffitti/Ore, Tenshi [-GSJm63ZKg8].opus
+Nov 25 20:04 : update: added porno_graffitti/ポルノグラフィティ『渦(Short ver.)』⧸ PORNOGRAFFITTI 『Uzu (Short ver.)』 [RFphTCNhnWI].opus
+Nov 25 20:04 : update: added porno_graffitti/ポルノグラフィティ『音のない森』MUSIC VIDEO [HuBR5Xknsf8].opus
+Nov 25 20:04 : update: added porno_graffitti/Heart [fc-lthGy0wo].opus
+Nov 25 20:04 : update: added porno_graffitti/Palette [6mR1y9oyM7I].opus
+Nov 25 20:05 : update: updating porno_graffitti/Agehachou [i_pxYP3CD0s].opus
+Nov 25 20:05 : update: updating porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus
+Nov 25 20:05 : update: updating porno_graffitti/Love You Love You [CxBphCiX4Lo].opus
+Nov 25 20:05 : update: updating porno_graffitti/ポルノグラフィティ『アポロ』MUSIC VIDEO [q_8ulbgIF5w].opus
+Nov 25 20:05 : update: updating porno_graffitti/Mahoroba Maruyama [q0ehGFGIttk].opus
+Nov 25 20:05 : update: updating porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus
+Nov 25 20:05 : update: updating porno_graffitti/ポルノグラフィティ『サボテン(Short ver.)』 ⧸ PORNOGRAFFITTI『Saboten (Short ver.)』 [T3CYkoC3R3U].opus
+Nov 25 20:05 : update: updating porno_graffitti/Karma No Saka [yledywIYNGI].opus
+Nov 25 20:05 : update: updating porno_graffitti/Ore, Tenshi [-GSJm63ZKg8].opus
+Nov 25 20:05 : update: updating porno_graffitti/ポルノグラフィティ『渦(Short ver.)』⧸ PORNOGRAFFITTI 『Uzu (Short ver.)』 [RFphTCNhnWI].opus
+Nov 25 20:05 : update: updating porno_graffitti/ポルノグラフィティ『音のない森』MUSIC VIDEO [HuBR5Xknsf8].opus
+Nov 25 20:05 : update: updating porno_graffitti/Heart [fc-lthGy0wo].opus
+Nov 25 20:05 : update: updating porno_graffitti/Palette [6mR1y9oyM7I].opus
+Nov 25 20:08 : update: updating porno_graffitti/Agehachou [i_pxYP3CD0s].opus
+Nov 25 20:08 : update: updating porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus
+Nov 25 20:08 : update: updating porno_graffitti/Love You Love You [CxBphCiX4Lo].opus
+Nov 25 20:08 : update: updating porno_graffitti/ポルノグラフィティ『アポロ』MUSIC VIDEO [q_8ulbgIF5w].opus
+Nov 25 20:08 : update: updating porno_graffitti/Mahoroba Maruyama [q0ehGFGIttk].opus
+Nov 25 20:08 : update: updating porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus
+Nov 25 20:08 : update: updating porno_graffitti/ポルノグラフィティ『サボテン(Short ver.)』 ⧸ PORNOGRAFFITTI『Saboten (Short ver.)』 [T3CYkoC3R3U].opus
+Nov 25 20:08 : update: updating porno_graffitti/Karma No Saka [yledywIYNGI].opus
+Nov 25 20:08 : update: updating porno_graffitti/Ore, Tenshi [-GSJm63ZKg8].opus
+Nov 25 20:08 : update: updating porno_graffitti/ポルノグラフィティ『渦(Short ver.)』⧸ PORNOGRAFFITTI 『Uzu (Short ver.)』 [RFphTCNhnWI].opus
+Nov 25 20:08 : update: updating porno_graffitti/ポルノグラフィティ『音のない森』MUSIC VIDEO [HuBR5Xknsf8].opus
+Nov 25 20:08 : update: updating porno_graffitti/Heart [fc-lthGy0wo].opus
+Nov 25 20:08 : update: updating porno_graffitti/Palette [6mR1y9oyM7I].opus
+Nov 25 20:10 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 25 20:10 : exception: Failed to open audio output
+Nov 25 20:10 : exception: Failed to open audio output
+Nov 25 20:10 : exception: All audio outputs are disabled
+Nov 25 20:10 : exception: All audio outputs are disabled
+Nov 25 20:10 : exception: All audio outputs are disabled
+Nov 25 20:11 : exception: All audio outputs are disabled
+Nov 25 20:11 : exception: All audio outputs are disabled
+Nov 25 20:14 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 25 20:19 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 25 20:29 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 25 22:17 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 25 22:21 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 25 22:22 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 25 22:29 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 25 22:31 : config: option 'forma' on line 24 was not recognized
+Nov 25 22:32 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 26 14:38 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 26 14:43 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 27 19:10 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 27 20:18 : config: option 'forma' on line 24 was not recognized
+Nov 27 20:22 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Nov 27 20:25 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Nov 28 18:47 : update: added The Killers/Jenny Was A Friend Of Mine [MQwu08Sc2vA].opus
+Nov 28 18:47 : update: added The Killers/Somebody Told Me [zgIfcF3WPA4].opus
+Nov 28 18:47 : update: added The Killers/Mr. Brightside [m2zUrruKjDQ].opus
+Nov 28 18:47 : update: added The Killers/Everything Will Be Alright [a7jdgcJsYVg].opus
+Nov 28 18:47 : update: added The Killers/All These Things That I've Done [AUAxlOfw2O0].opus
+Nov 28 18:47 : update: added The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus
+Nov 28 18:47 : update: added The Killers/Andy, You're A Star [u3not2MRWZk].opus
+Nov 28 18:47 : update: added The Killers/Smile Like You Mean It [Dp4m2v4q_bg].opus
+Nov 28 18:47 : update: added The Killers/Change Your Mind [QKMQ5lkuP8g].opus
+Nov 28 18:47 : update: added The Killers/Glamorous Indie Rock & Roll [Z1jmK2GEMbQ].opus
+Nov 28 18:47 : update: added The Killers/On Top [E2YHix56Sdg].opus
+Nov 28 18:47 : update: added The Killers/Midnight Show [rF0YN6HU6aA].opus
+Nov 28 19:07 : update: updating The Killers/Jenny Was A Friend Of Mine [MQwu08Sc2vA].opus
+Nov 28 19:07 : update: updating The Killers/Somebody Told Me [zgIfcF3WPA4].opus
+Nov 28 19:07 : update: updating The Killers/Mr. Brightside [m2zUrruKjDQ].opus
+Nov 28 19:07 : update: updating The Killers/Everything Will Be Alright [a7jdgcJsYVg].opus
+Nov 28 19:07 : update: updating The Killers/All These Things That I've Done [AUAxlOfw2O0].opus
+Nov 28 19:07 : update: updating The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus
+Nov 28 19:07 : update: updating The Killers/Andy, You're A Star [u3not2MRWZk].opus
+Nov 28 19:07 : update: updating The Killers/Smile Like You Mean It [Dp4m2v4q_bg].opus
+Nov 28 19:07 : update: updating The Killers/Change Your Mind [QKMQ5lkuP8g].opus
+Nov 28 19:07 : update: updating The Killers/Glamorous Indie Rock & Roll [Z1jmK2GEMbQ].opus
+Nov 28 19:07 : update: updating The Killers/On Top [E2YHix56Sdg].opus
+Nov 28 19:07 : update: updating The Killers/Midnight Show [rF0YN6HU6aA].opus
+Nov 28 19:11 : update: updating The Killers/Jenny Was A Friend Of Mine [MQwu08Sc2vA].opus
+Nov 28 19:11 : update: updating The Killers/Somebody Told Me [zgIfcF3WPA4].opus
+Nov 28 19:11 : update: updating The Killers/Mr. Brightside [m2zUrruKjDQ].opus
+Nov 28 19:11 : update: updating The Killers/Everything Will Be Alright [a7jdgcJsYVg].opus
+Nov 28 19:11 : update: updating The Killers/All These Things That I've Done [AUAxlOfw2O0].opus
+Nov 28 19:11 : update: updating The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus
+Nov 28 19:11 : update: updating The Killers/Andy, You're A Star [u3not2MRWZk].opus
+Nov 28 19:11 : update: updating The Killers/Smile Like You Mean It [Dp4m2v4q_bg].opus
+Nov 28 19:11 : update: updating The Killers/Change Your Mind [QKMQ5lkuP8g].opus
+Nov 28 19:11 : update: updating The Killers/Glamorous Indie Rock & Roll [Z1jmK2GEMbQ].opus
+Nov 28 19:11 : update: updating The Killers/On Top [E2YHix56Sdg].opus
+Nov 28 19:11 : update: updating The Killers/Midnight Show [rF0YN6HU6aA].opus
+Nov 28 19:11 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Nov 28 19:16 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Nov 28 19:19 : player: played "The Killers/Andy, You're A Star [u3not2MRWZk].opus"
+Nov 28 19:25 : player: played "The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus"
+Nov 28 19:28 : player: played "The Killers/Change Your Mind [QKMQ5lkuP8g].opus"
+Nov 28 19:33 : player: played "The Killers/Everything Will Be Alright [a7jdgcJsYVg].opus"
+Nov 28 19:38 : player: played "The Killers/Glamorous Indie Rock & Roll [Z1jmK2GEMbQ].opus"
+Nov 28 19:42 : player: played "The Killers/Jenny Was A Friend Of Mine [MQwu08Sc2vA].opus"
+Nov 28 19:46 : player: played "The Killers/Midnight Show [rF0YN6HU6aA].opus"
+Nov 28 19:48 : player: played "The Killers/Mr. Brightside [m2zUrruKjDQ].opus"
+Nov 28 19:52 : config: option 'forma' on line 24 was not recognized
+Nov 28 19:57 : player: played "The Killers/Mr. Brightside [m2zUrruKjDQ].opus"
+Nov 28 20:01 : player: played "The Killers/On Top [E2YHix56Sdg].opus"
+Nov 28 20:05 : player: played "The Killers/Smile Like You Mean It [Dp4m2v4q_bg].opus"
+Nov 28 20:08 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Nov 28 20:16 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Nov 28 20:22 : player: played "porno_graffitti/Heart [fc-lthGy0wo].opus"
+Nov 28 20:26 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 28 20:32 : player: played "porno_graffitti/Karma No Saka [yledywIYNGI].opus"
+Nov 28 20:36 : player: played "porno_graffitti/Love You Love You [CxBphCiX4Lo].opus"
+Nov 28 20:40 : player: played "porno_graffitti/Mahoroba Maruyama [q0ehGFGIttk].opus"
+Nov 28 20:45 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 28 20:53 : player: played "porno_graffitti/ポルノグラフィティ『アポロ』MUSIC VIDEO [q_8ulbgIF5w].opus"
+Nov 28 20:55 : player: played "porno_graffitti/ポルノグラフィティ『サボテン(Short ver.)』 ⧸ PORNOGRAFFITTI『Saboten (Short ver.)』 [T3CYkoC3R3U].opus"
+Nov 28 20:57 : player: played "porno_graffitti/ポルノグラフィティ『渦(Short ver.)』⧸ PORNOGRAFFITTI 『Uzu (Short ver.)』 [RFphTCNhnWI].opus"
+Nov 28 21:03 : player: played "porno_graffitti/ポルノグラフィティ『音のない森』MUSIC VIDEO [HuBR5Xknsf8].opus"
+Nov 28 21:10 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 28 21:15 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 28 21:18 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Nov 28 21:22 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Nov 28 21:27 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Nov 28 21:31 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Nov 28 21:35 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Nov 28 21:38 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Nov 28 21:40 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Nov 28 21:45 : player: played "daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus"
+Nov 28 21:49 : player: played "daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus"
+Nov 28 21:52 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Nov 28 21:56 : player: played "daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus"
+Nov 28 22:04 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Nov 28 22:06 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Nov 28 22:06 : config: option 'forma' on line 24 was not recognized
+Nov 28 22:09 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Nov 28 22:13 : player: played "The Killers/Andy, You're A Star [u3not2MRWZk].opus"
+Nov 28 22:16 : player: played "The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus"
+Nov 28 22:19 : player: played "The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus"
+Nov 28 22:20 : player: played "The Killers/Change Your Mind [QKMQ5lkuP8g].opus"
+Nov 28 22:25 : player: played "radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus"
+Nov 28 22:29 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Nov 28 22:34 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Nov 28 22:38 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Nov 28 22:41 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Nov 28 22:46 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Nov 28 22:50 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Nov 28 22:54 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Nov 28 22:57 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Nov 28 22:59 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Nov 28 23:04 : player: played "daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus"
+Nov 28 23:08 : player: played "daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus"
+Nov 28 23:12 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Nov 28 23:16 : player: played "daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus"
+Nov 29 19:10 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Nov 29 19:16 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Nov 29 19:19 : player: played "The Killers/Andy, You're A Star [u3not2MRWZk].opus"
+Nov 29 19:24 : player: played "The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus"
+Nov 29 19:27 : player: played "The Killers/Change Your Mind [QKMQ5lkuP8g].opus"
+Nov 29 19:33 : player: played "The Killers/Everything Will Be Alright [a7jdgcJsYVg].opus"
+Nov 29 19:37 : player: played "The Killers/Glamorous Indie Rock & Roll [Z1jmK2GEMbQ].opus"
+Nov 29 19:41 : player: played "The Killers/Jenny Was A Friend Of Mine [MQwu08Sc2vA].opus"
+Nov 29 20:14 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Nov 29 20:19 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Nov 29 20:22 : player: played "The Killers/Andy, You're A Star [u3not2MRWZk].opus"
+Nov 29 20:27 : player: played "The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus"
+Nov 29 20:30 : player: played "The Killers/Change Your Mind [QKMQ5lkuP8g].opus"
+Nov 29 20:36 : player: played "The Killers/Everything Will Be Alright [a7jdgcJsYVg].opus"
+Nov 29 20:40 : player: played "The Killers/Glamorous Indie Rock & Roll [Z1jmK2GEMbQ].opus"
+Dec 01 15:23 : player: played "The Killers/Jenny Was A Friend Of Mine [MQwu08Sc2vA].opus"
+Dec 02 15:07 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Dec 02 15:13 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Dec 02 15:16 : player: played "The Killers/Andy, You're A Star [u3not2MRWZk].opus"
+Dec 02 15:24 : update: added radiohead/the_bends/Sulk [-SLb6BdCHlE].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Bones [3ZKxungSg9U].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Planet Telex [g0az4OkM02Y].opus
+Dec 02 15:24 : update: added radiohead/the_bends/[Nice Dream] [jIjTFt6XmFM].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Radiohead - Street Spirit (Fade Out) [LCJblaUkkfc].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Radiohead - Just [oIFLtNYI3Ls].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Radiohead - Fake Plastic Trees [n5h0qHwNrHk].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Black Star [d7lbzUUXj0k].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Radiohead - High and Dry [7qFfFVSerQo].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Radiohead - My Iron Lung [pRU-6vaKaf4].opus
+Dec 02 15:24 : update: added radiohead/the_bends/The Bends [K8z8hLvjb_U].opus
+Dec 02 15:24 : update: added radiohead/the_bends/Bullet Proof ... I Wish I Was [KkCgUI_g2oo].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Sulk [-SLb6BdCHlE].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Bones [3ZKxungSg9U].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Planet Telex [g0az4OkM02Y].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/[Nice Dream] [jIjTFt6XmFM].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Radiohead - Street Spirit (Fade Out) [LCJblaUkkfc].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Radiohead - Just [oIFLtNYI3Ls].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Radiohead - Fake Plastic Trees [n5h0qHwNrHk].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Black Star [d7lbzUUXj0k].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Radiohead - High and Dry [7qFfFVSerQo].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Radiohead - My Iron Lung [pRU-6vaKaf4].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/The Bends [K8z8hLvjb_U].opus
+Dec 02 15:29 : update: updating radiohead/the_bends/Bullet Proof ... I Wish I Was [KkCgUI_g2oo].opus
+Dec 02 15:33 : player: played "radiohead/the_bends/The Bends [K8z8hLvjb_U].opus"
+Dec 02 15:38 : player: played "radiohead/nosurprises/Airbag [jNY_wLukVW0].opus"
+Dec 02 15:43 : player: played "radiohead/nosurprises/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Dec 02 15:47 : player: played "radiohead/nosurprises/Electioneering [3DtgWrFTtQk].opus"
+Dec 02 15:51 : player: played "radiohead/nosurprises/Exit Music (For A Film) [Bf01riuiJWA].opus"
+Dec 02 15:53 : player: played "radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus"
+Dec 02 15:57 : player: played "radiohead/nosurprises/Karma Police [4IJI6soiQhI].opus"
+Dec 02 16:02 : player: played "radiohead/nosurprises/Let Down [duBCwvC1kP4].opus"
+Dec 02 16:07 : player: played "radiohead/nosurprises/Lucky [yuZYQvvLXVY].opus"
+Dec 02 16:11 : player: played "radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus"
+Dec 02 16:17 : player: played "radiohead/nosurprises/Paranoid Android [YTH8cxXBGBo].opus"
+Dec 02 16:21 : player: played "radiohead/nosurprises/Subterranean Homesick Alien [_fTWmUlTEqE].opus"
+Dec 02 16:27 : player: played "radiohead/nosurprises/The Tourist [HkgzObf8uVU].opus"
+Dec 02 16:31 : player: played "radiohead/pablo_honey/Anyone Can Play Guitar [i_GZJLH0ynY].opus"
+Dec 02 16:35 : player: played "radiohead/pablo_honey/Blow Out [ocQImpRfPMk].opus"
+Dec 02 16:39 : player: played "radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus"
+Dec 02 16:41 : player: played "radiohead/pablo_honey/How Do You？ [ukFTig7exNU].opus"
+Dec 02 16:46 : player: played "radiohead/pablo_honey/I Can't [cwQZ3O3hUe8].opus"
+Dec 02 16:49 : player: played "radiohead/pablo_honey/Lurgee [RGx5wxznSOE].opus"
+Dec 02 16:51 : player: played "radiohead/pablo_honey/Prove Yourself [o6Hqe1qKUhA].opus"
+Dec 02 16:54 : player: played "radiohead/pablo_honey/Ripcord [i0GC7Oo_Zo4].opus"
+Dec 02 17:00 : player: played "radiohead/pablo_honey/Stop Whispering [DPpug5FUQsc].opus"
+Dec 02 17:02 : player: played "radiohead/pablo_honey/Thinking About You [2jsPEOiMNaA].opus"
+Dec 02 17:06 : player: played "radiohead/pablo_honey/Vegetable [kALoYb7bepI].opus"
+Dec 02 17:09 : player: played "radiohead/pablo_honey/You [OzL7u5teZhg].opus"
+Dec 02 19:26 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 02 19:31 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 02 19:35 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 03 19:55 : player: played "radiohead/the_bends/Black Star [d7lbzUUXj0k].opus"
+Dec 03 19:58 : player: played "radiohead/the_bends/Bones [3ZKxungSg9U].opus"
+Dec 03 20:01 : player: played "radiohead/the_bends/Bullet Proof ... I Wish I Was [KkCgUI_g2oo].opus"
+Dec 03 20:06 : player: played "radiohead/the_bends/Radiohead - Fake Plastic Trees [n5h0qHwNrHk].opus"
+Dec 03 20:10 : player: played "radiohead/the_bends/Radiohead - High and Dry [7qFfFVSerQo].opus"
+Dec 03 20:15 : player: played "radiohead/the_bends/Radiohead - Just [oIFLtNYI3Ls].opus"
+Dec 03 20:19 : player: played "radiohead/the_bends/Radiohead - My Iron Lung [pRU-6vaKaf4].opus"
+Dec 03 20:23 : player: played "radiohead/the_bends/[Nice Dream] [jIjTFt6XmFM].opus"
+Dec 03 20:27 : player: played "radiohead/the_bends/Planet Telex [g0az4OkM02Y].opus"
+Dec 03 20:32 : player: played "radiohead/the_bends/Radiohead - Street Spirit (Fade Out) [LCJblaUkkfc].opus"
+Dec 03 20:35 : player: played "radiohead/the_bends/Sulk [-SLb6BdCHlE].opus"
+Dec 03 20:39 : player: played "radiohead/the_bends/The Bends [K8z8hLvjb_U].opus"
+Dec 03 20:44 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 03 20:49 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 03 20:52 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 03 20:56 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 03 21:05 : player: played "radiohead/nosurprises/Airbag [jNY_wLukVW0].opus"
+Dec 03 21:10 : player: played "radiohead/nosurprises/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Dec 03 21:13 : player: played "radiohead/nosurprises/Electioneering [3DtgWrFTtQk].opus"
+Dec 03 21:18 : player: played "radiohead/nosurprises/Exit Music (For A Film) [Bf01riuiJWA].opus"
+Dec 03 21:20 : player: played "radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus"
+Dec 03 21:24 : player: played "radiohead/nosurprises/Karma Police [4IJI6soiQhI].opus"
+Dec 03 21:29 : player: played "radiohead/nosurprises/Let Down [duBCwvC1kP4].opus"
+Dec 03 21:33 : player: played "radiohead/nosurprises/Lucky [yuZYQvvLXVY].opus"
+Dec 03 21:37 : player: played "radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus"
+Dec 03 21:47 : player: played "radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus"
+Dec 03 21:51 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 03 22:11 : player: played "radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus"
+Dec 03 22:15 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 03 22:20 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 03 22:24 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Dec 03 22:28 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 03 22:33 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 03 22:36 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 03 22:40 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 03 22:47 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Dec 04 14:04 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 04 14:09 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 04 14:13 : player: played "radiohead/the_bends/The Bends [K8z8hLvjb_U].opus"
+Dec 04 14:17 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 04 14:22 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 04 14:26 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 04 14:29 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 04 14:34 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Dec 04 14:38 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Dec 04 14:42 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Dec 04 14:46 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Dec 04 14:47 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Dec 04 14:53 : player: played "daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus"
+Dec 04 14:56 : player: played "daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus"
+Dec 04 15:00 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Dec 04 15:04 : player: played "daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus"
+Dec 04 15:14 : player: played "daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus"
+Dec 04 15:20 : player: played "daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus"
+Dec 04 15:23 : player: played "daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus"
+Dec 04 15:28 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Dec 04 15:32 : player: played "The Killers/Andy, You're A Star [u3not2MRWZk].opus"
+Dec 04 15:37 : player: played "The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus"
+Dec 04 20:02 : update: added yusei/(FREE) Doja Cat x Pop Type Beat - Retrograde (prod. yusei x ydd matt) [s8s99UBsoPg].opus
+Dec 04 20:02 : update: added yusei/(FREE) The Weeknd Type Beat - Until the sun comes up (prod. yusei x ydd matt) [bH8qTr6ECrI].opus
+Dec 04 20:02 : update: added yusei/You inspire me  ◍  lofi  ◍  music for stress [dgJ6VRcwTcw].opus
+Dec 04 20:02 : update: added yusei/Mood Sad Emoji [Ahlti9fpfoQ].opus
+Dec 04 20:02 : update: added yusei/Summer Car Freestyles [6ddI8chkT3E].opus
+Dec 04 20:02 : update: added yusei/(FREE) Lofi Type Beat - kawaii lofi vibes [NZ9t8SziBrY].opus
+Dec 04 20:02 : update: added yusei/Vibe with Me for a Minute Pt. 2 [zAOceNI1820].opus
+Dec 04 20:02 : update: added yusei/Let's Get Back to Better [-gAdnhCB1Go].opus
+Dec 04 20:02 : update: added yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus
+Dec 04 20:02 : update: added yusei/But I Still Love You [GggQLSKF6_I].opus
+Dec 04 20:02 : update: added yusei/(FREE) The Weeknd Type Beat - Hyperdrive (prod. yusei x ydd matt) [2XBrk1xRGOE].opus
+Dec 04 20:02 : update: removing yusei/You inspire me  ◍  lofi  ◍  music for stress [dgJ6VRcwTcw].opus
+Dec 04 20:03 : update: updating yusei/(FREE) Doja Cat x Pop Type Beat - Retrograde (prod. yusei x ydd matt) [s8s99UBsoPg].opus
+Dec 04 20:03 : update: updating yusei/(FREE) The Weeknd Type Beat - Until the sun comes up (prod. yusei x ydd matt) [bH8qTr6ECrI].opus
+Dec 04 20:03 : update: updating yusei/Mood Sad Emoji [Ahlti9fpfoQ].opus
+Dec 04 20:03 : update: updating yusei/Summer Car Freestyles [6ddI8chkT3E].opus
+Dec 04 20:03 : update: updating yusei/(FREE) Lofi Type Beat - kawaii lofi vibes [NZ9t8SziBrY].opus
+Dec 04 20:03 : update: updating yusei/Vibe with Me for a Minute Pt. 2 [zAOceNI1820].opus
+Dec 04 20:03 : update: updating yusei/Let's Get Back to Better [-gAdnhCB1Go].opus
+Dec 04 20:03 : update: updating yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus
+Dec 04 20:03 : update: updating yusei/But I Still Love You [GggQLSKF6_I].opus
+Dec 04 20:03 : update: updating yusei/(FREE) The Weeknd Type Beat - Hyperdrive (prod. yusei x ydd matt) [2XBrk1xRGOE].opus
+Dec 04 20:06 : player: played "The Killers/Change Your Mind [QKMQ5lkuP8g].opus"
+Dec 04 20:11 : update: updating yusei/(FREE) Doja Cat x Pop Type Beat - Retrograde (prod. yusei x ydd matt) [s8s99UBsoPg].opus
+Dec 04 20:11 : update: updating yusei/(FREE) The Weeknd Type Beat - Until the sun comes up (prod. yusei x ydd matt) [bH8qTr6ECrI].opus
+Dec 04 20:11 : update: updating yusei/Mood Sad Emoji [Ahlti9fpfoQ].opus
+Dec 04 20:11 : update: updating yusei/Summer Car Freestyles [6ddI8chkT3E].opus
+Dec 04 20:11 : update: updating yusei/(FREE) Lofi Type Beat - kawaii lofi vibes [NZ9t8SziBrY].opus
+Dec 04 20:11 : update: updating yusei/Vibe with Me for a Minute Pt. 2 [zAOceNI1820].opus
+Dec 04 20:11 : update: updating yusei/Let's Get Back to Better [-gAdnhCB1Go].opus
+Dec 04 20:11 : update: updating yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus
+Dec 04 20:11 : update: updating yusei/But I Still Love You [GggQLSKF6_I].opus
+Dec 04 20:11 : update: updating yusei/(FREE) The Weeknd Type Beat - Hyperdrive (prod. yusei x ydd matt) [2XBrk1xRGOE].opus
+Dec 04 20:11 : update: updating yusei/(FREE) Doja Cat x Pop Type Beat - Retrograde (prod. yusei x ydd matt) [s8s99UBsoPg].opus
+Dec 04 20:11 : update: updating yusei/(FREE) The Weeknd Type Beat - Until the sun comes up (prod. yusei x ydd matt) [bH8qTr6ECrI].opus
+Dec 04 20:11 : update: updating yusei/Mood Sad Emoji [Ahlti9fpfoQ].opus
+Dec 04 20:11 : update: updating yusei/Summer Car Freestyles [6ddI8chkT3E].opus
+Dec 04 20:11 : update: updating yusei/(FREE) Lofi Type Beat - kawaii lofi vibes [NZ9t8SziBrY].opus
+Dec 04 20:11 : update: updating yusei/Vibe with Me for a Minute Pt. 2 [zAOceNI1820].opus
+Dec 04 20:11 : update: updating yusei/Let's Get Back to Better [-gAdnhCB1Go].opus
+Dec 04 20:11 : update: updating yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus
+Dec 04 20:11 : update: updating yusei/But I Still Love You [GggQLSKF6_I].opus
+Dec 04 20:11 : update: updating yusei/(FREE) The Weeknd Type Beat - Hyperdrive (prod. yusei x ydd matt) [2XBrk1xRGOE].opus
+Dec 04 20:26 : player: played "yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus"
+Dec 04 20:34 : player: played "yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus"
+Dec 04 20:39 : player: played "yusei/But I Still Love You [GggQLSKF6_I].opus"
+Dec 04 20:42 : player: played "yusei/(FREE) The Weeknd Type Beat - Hyperdrive (prod. yusei x ydd matt) [2XBrk1xRGOE].opus"
+Dec 04 20:46 : player: played "yusei/(FREE) Lofi Type Beat - kawaii lofi vibes [NZ9t8SziBrY].opus"
+Dec 04 20:52 : player: played "yusei/Let's Get Back to Better [-gAdnhCB1Go].opus"
+Dec 04 20:57 : player: played "yusei/Mood Sad Emoji [Ahlti9fpfoQ].opus"
+Dec 04 21:01 : player: played "yusei/(FREE) Doja Cat x Pop Type Beat - Retrograde (prod. yusei x ydd matt) [s8s99UBsoPg].opus"
+Dec 04 21:06 : player: played "yusei/Summer Car Freestyles [6ddI8chkT3E].opus"
+Dec 04 21:11 : player: played "yusei/(FREE) The Weeknd Type Beat - Until the sun comes up (prod. yusei x ydd matt) [bH8qTr6ECrI].opus"
+Dec 04 21:17 : player: played "yusei/Vibe with Me for a Minute Pt. 2 [zAOceNI1820].opus"
+Dec 04 21:21 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 04 21:26 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 04 21:29 : update: added radiohead/inrainbows/Reckoner [pYHEpDnvVPk].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/Weird Fishes⧸ Arpeggi [LUjGtyYEi90].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/All I Need [FM7ALFsOH4g].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/Jigsaw Falling Into Place [CvjRlYpXS5U].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/House Of Cards [Nng0aSsq_XE].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/Faust Arp [PRc0iMRoIoc].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/Videotape [WF83_PR2EsA].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/Nude [4-aiSnnghQk].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/Bodysnatchers [nIQxhSvSRnQ].opus
+Dec 04 21:29 : update: added radiohead/inrainbows/15 Step [bgsmr7t8zGE].opus
+Dec 04 21:33 : player: played "radiohead/inrainbows/Jigsaw Falling Into Place [CvjRlYpXS5U].opus"
+Dec 04 22:21 : player: played "yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus"
+Dec 04 22:25 : player: played "yusei/But I Still Love You [GggQLSKF6_I].opus"
+Dec 05 10:47 : player: played "radiohead/inrainbows/Jigsaw Falling Into Place [CvjRlYpXS5U].opus"
+Dec 05 10:55 : player: played "radiohead/the_bends/The Bends [K8z8hLvjb_U].opus"
+Dec 05 10:59 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 05 11:04 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 05 11:08 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 05 15:03 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 05 16:57 : update: added radiohead/kidA/How to Disappear Completely [6W6HhdqA95w].opus
+Dec 05 16:57 : update: added radiohead/kidA/In Limbo [Q29iibXXiOs].opus
+Dec 05 16:57 : update: added radiohead/kidA/The National Anthem [NfQD1QiQ9o4].opus
+Dec 05 16:57 : update: added radiohead/kidA/Morning Bell [XTT6k3Q4JnQ].opus
+Dec 05 16:57 : update: added radiohead/kidA/Motion Picture Soundtrack [EcSvMFm2ABE].opus
+Dec 05 16:57 : update: added radiohead/kidA/Idioteque [svwJTnZOaco].opus
+Dec 05 16:57 : update: added radiohead/kidA/Treefingers [L7p47zYKJoM].opus
+Dec 05 16:57 : update: added radiohead/kidA/Optimistic [1On-ZHfTWOo].opus
+Dec 05 16:57 : update: added radiohead/kidA/Kid A [MXNbfU0Ww_E].opus
+Dec 05 16:57 : update: added radiohead/kidA/Everything In Its Right Place [NUnXxh5U25Y].opus
+Dec 05 16:58 : update: updating radiohead/kidA/How to Disappear Completely [6W6HhdqA95w].opus
+Dec 05 16:58 : update: updating radiohead/kidA/In Limbo [Q29iibXXiOs].opus
+Dec 05 16:58 : update: updating radiohead/kidA/The National Anthem [NfQD1QiQ9o4].opus
+Dec 05 16:58 : update: updating radiohead/kidA/Morning Bell [XTT6k3Q4JnQ].opus
+Dec 05 16:58 : update: updating radiohead/kidA/Motion Picture Soundtrack [EcSvMFm2ABE].opus
+Dec 05 16:58 : update: updating radiohead/kidA/Idioteque [svwJTnZOaco].opus
+Dec 05 16:58 : update: updating radiohead/kidA/Treefingers [L7p47zYKJoM].opus
+Dec 05 16:58 : update: updating radiohead/kidA/Optimistic [1On-ZHfTWOo].opus
+Dec 05 16:58 : update: updating radiohead/kidA/Kid A [MXNbfU0Ww_E].opus
+Dec 05 16:58 : update: updating radiohead/kidA/Everything In Its Right Place [NUnXxh5U25Y].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/Reckoner [pYHEpDnvVPk].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/Weird Fishes⧸ Arpeggi [LUjGtyYEi90].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/All I Need [FM7ALFsOH4g].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/Jigsaw Falling Into Place [CvjRlYpXS5U].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/House Of Cards [Nng0aSsq_XE].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/Faust Arp [PRc0iMRoIoc].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/Videotape [WF83_PR2EsA].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/Nude [4-aiSnnghQk].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/Bodysnatchers [nIQxhSvSRnQ].opus
+Dec 05 16:58 : update: updating radiohead/inrainbows/15 Step [bgsmr7t8zGE].opus
+Dec 05 17:05 : player: played "radiohead/inrainbows/Jigsaw Falling Into Place [CvjRlYpXS5U].opus"
+Dec 05 17:09 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 05 17:14 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 05 17:20 : player: played "yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus"
+Dec 05 17:24 : player: played "yusei/But I Still Love You [GggQLSKF6_I].opus"
+Dec 05 20:25 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Dec 05 20:30 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 05 20:35 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 05 20:38 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 05 20:42 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 05 20:47 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Dec 05 20:51 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Dec 05 20:55 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Dec 05 20:58 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Dec 05 21:00 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Dec 05 21:05 : player: played "daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus"
+Dec 05 21:08 : player: played "daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus"
+Dec 05 21:12 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Dec 05 21:16 : player: played "daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus"
+Dec 05 21:26 : player: played "daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus"
+Dec 05 21:32 : player: played "daftpunk/Daft Punk - Veridis Quo (Official Audio) [TCd6PfxOy0Y].opus"
+Dec 05 21:36 : player: played "daftpunk/Daft Punk - Voyager (Official Audio) [INbgG9M0WYE].opus"
+Dec 05 21:41 : player: played "The Killers/All These Things That I've Done [AUAxlOfw2O0].opus"
+Dec 05 21:44 : player: played "The Killers/Andy, You're A Star [u3not2MRWZk].opus"
+Dec 05 21:49 : player: played "The Killers/Believe Me Natalie [Gx1EqsrxHLM].opus"
+Dec 05 21:52 : player: played "The Killers/Change Your Mind [QKMQ5lkuP8g].opus"
+Dec 05 21:58 : player: played "The Killers/Everything Will Be Alright [a7jdgcJsYVg].opus"
+Dec 05 22:02 : player: played "The Killers/Glamorous Indie Rock & Roll [Z1jmK2GEMbQ].opus"
+Dec 05 22:06 : player: played "The Killers/Jenny Was A Friend Of Mine [MQwu08Sc2vA].opus"
+Dec 05 22:10 : player: played "The Killers/Midnight Show [rF0YN6HU6aA].opus"
+Dec 06 08:13 : player: played "The Killers/Mr. Brightside [m2zUrruKjDQ].opus"
+Dec 06 16:48 : player: played "radiohead/kidA/Everything In Its Right Place [NUnXxh5U25Y].opus"
+Dec 06 16:51 : player: played "radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus"
+Dec 06 16:55 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 06 17:00 : player: played "radiohead/pablo_honey/Creep [zFYEYRcjK2g].opus"
+Dec 06 17:04 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 06 17:10 : player: played "yusei/(FREE) Lofi Type Beat - a lofi song for those lonely nights [rJx05sV7ECU].opus"
+Dec 06 17:15 : player: played "yusei/But I Still Love You [GggQLSKF6_I].opus"
+Dec 06 17:18 : player: played "yusei/(FREE) The Weeknd Type Beat - Hyperdrive (prod. yusei x ydd matt) [2XBrk1xRGOE].opus"
+Dec 06 17:22 : player: played "yusei/(FREE) Lofi Type Beat - kawaii lofi vibes [NZ9t8SziBrY].opus"
+Dec 06 17:27 : player: played "yusei/Let's Get Back to Better [-gAdnhCB1Go].opus"
+Dec 06 17:33 : player: played "radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus"
+Dec 06 17:38 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 06 17:44 : player: played "radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus"
+Dec 06 17:48 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 06 17:53 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 06 18:07 : player: played "radiohead/nosurprises/Let Down [duBCwvC1kP4].opus"
+Dec 06 18:11 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 06 18:18 : player: played "radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus"
+Dec 06 18:22 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 06 18:31 : player: played "radiohead/nosurprises/Airbag [jNY_wLukVW0].opus"
+Dec 06 18:35 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 06 18:40 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 06 18:44 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 07 08:08 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 07 13:21 : player: played "radiohead/inrainbows/Jigsaw Falling Into Place [CvjRlYpXS5U].opus"
+Dec 07 13:25 : player: played "The Killers/Somebody Told Me [zgIfcF3WPA4].opus"
+Dec 07 13:31 : player: played "radiohead/nosurprises/Paranoid Android [YTH8cxXBGBo].opus"
+Dec 07 13:35 : player: played "radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus"
+Dec 07 13:40 : player: played "radiohead/nosurprises/Airbag [jNY_wLukVW0].opus"
+Dec 07 13:44 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 07 13:49 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 07 13:52 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 07 13:59 : player: played "radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus"
+Dec 07 14:04 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 07 14:09 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 07 14:12 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 07 14:16 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 07 14:21 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Dec 07 14:25 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Dec 07 14:29 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Dec 07 14:32 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Dec 07 14:34 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Dec 07 14:39 : player: played "daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus"
+Dec 07 14:42 : player: played "daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus"
+Dec 07 14:46 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Dec 07 14:51 : player: played "radiohead/the_bends/Black Star [d7lbzUUXj0k].opus"
+Dec 07 14:54 : player: played "radiohead/the_bends/Bones [3ZKxungSg9U].opus"
+Dec 07 14:58 : player: played "radiohead/the_bends/Bullet Proof ... I Wish I Was [KkCgUI_g2oo].opus"
+Dec 07 15:03 : player: played "radiohead/the_bends/Radiohead - Fake Plastic Trees [n5h0qHwNrHk].opus"
+Dec 07 15:07 : player: played "radiohead/the_bends/Radiohead - High and Dry [7qFfFVSerQo].opus"
+Dec 07 15:11 : player: played "radiohead/the_bends/Radiohead - Just [oIFLtNYI3Ls].opus"
+Dec 07 15:16 : player: played "radiohead/the_bends/Radiohead - My Iron Lung [pRU-6vaKaf4].opus"
+Dec 07 15:20 : player: played "radiohead/the_bends/[Nice Dream] [jIjTFt6XmFM].opus"
+Dec 07 15:24 : player: played "radiohead/the_bends/Planet Telex [g0az4OkM02Y].opus"
+Dec 07 15:28 : player: played "radiohead/the_bends/Radiohead - Street Spirit (Fade Out) [LCJblaUkkfc].opus"
+Dec 07 15:32 : player: played "radiohead/the_bends/Sulk [-SLb6BdCHlE].opus"
+Dec 07 15:36 : player: played "radiohead/the_bends/The Bends [K8z8hLvjb_U].opus"
+Dec 07 17:35 : player: played "radiohead/nosurprises/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Dec 07 17:39 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 07 17:44 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 07 17:48 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 08 15:43 : player: played "radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus"
+Dec 08 15:47 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 08 15:52 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 08 15:55 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 08 15:59 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 08 16:04 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Dec 08 16:08 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Dec 08 16:12 : player: played "daftpunk/Daft Punk - Harder, Better, Faster, Stronger (Official Audio) [yydNF8tuVmU].opus"
+Dec 08 16:15 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Dec 08 16:17 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Dec 08 16:22 : player: played "daftpunk/Daft Punk - One More Time (Official Audio) [A2VpR8HahKc].opus"
+Dec 08 16:26 : player: played "daftpunk/Daft Punk - Short Circuit (Official Audio) [9hhVnRTNVmM].opus"
+Dec 08 16:29 : player: played "daftpunk/Daft Punk - Something About Us (Official Audio) [em0MknB6wFo].opus"
+Dec 08 16:33 : player: played "daftpunk/Daft Punk - Superheroes (Official Audio) [UBGfS7S9BYg].opus"
+Dec 08 23:49 : player: played "daftpunk/Daft Punk - Too Long (Official Audio) [ROF4uNjrB4U].opus"
+Dec 09 01:25 : player: played "radiohead/nosurprises/Let Down [duBCwvC1kP4].opus"
+Dec 09 15:35 : player: played "radiohead/nosurprises/Lucky [yuZYQvvLXVY].opus"
+Dec 09 16:53 : player: played "radiohead/nosurprises/No Surprises [LBt60dfwEBY].opus"
+Dec 09 16:59 : player: played "radiohead/nosurprises/Paranoid Android [YTH8cxXBGBo].opus"
+Dec 09 17:04 : player: played "radiohead/nosurprises/Subterranean Homesick Alien [_fTWmUlTEqE].opus"
+Dec 09 17:09 : player: played "radiohead/nosurprises/The Tourist [HkgzObf8uVU].opus"
+Dec 09 17:14 : player: played "radiohead/nosurprises/Climbing Up the Walls [XX4EpkR-Sp4].opus"
+Dec 09 17:16 : player: played "radiohead/nosurprises/Fitter Happier [O4SzvsMFaek].opus"
+Dec 09 23:34 : player: played "porno_graffitti/ポルノグラフィティ『ヒトリノ夜』MUSIC VIDEO(アニメ『GTO』OPテーマ) [_rw6Vnyo8Sc].opus"
+Dec 09 23:39 : player: played "porno_graffitti/ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ) [DXo_xX_Hqro].opus"
+Dec 09 23:43 : player: played "daftpunk/Daft Punk - Aerodynamic (Official Audio) [Mjpu0-o9iek].opus"
+Dec 09 23:46 : player: played "daftpunk/Daft Punk - Crescendolls (Official Audio) [oor2uIqys8M].opus"
+Dec 09 23:51 : player: played "daftpunk/Daft Punk - Digital Love (Official Audio) [4whD6uAryMs].opus"
+Dec 09 23:55 : player: played "daftpunk/Daft Punk - Face to Face (Official Audio) [UKYWWfR_GKA].opus"
+Dec 09 23:59 : player: played "daftpunk/Daft Punk - High Life (Official Audio) [KlUtJOTmmk8].opus"
+Dec 10 00:01 : player: played "daftpunk/Daft Punk - Nightvision (Official Audio) [NQ-mm1H7uJw].opus"
+Dec 10 00:11 : player: played "radiohead/nosurprises/Let Down [duBCwvC1kP4].opus"
